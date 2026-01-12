@@ -1,5 +1,6 @@
 # JSCCRA
-JSCCRA data augmentation
+1. Here are the codes of the transfer learnning with JSCCRA in the paper ["Enhancing Subject-Independent SSVEP-BCIs via Joint Style Characteristic and Content Representation Augmentation“]().
+2. The core code for JSCCRA can be found in the `data_generator_source_JSCCRA.py` file within the pretraining directory.
 
 ## The related version information
 1. Python == 3.9.13
